@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Arrays {
 
-	
+	// happy birthday Simon!!! smile:)
 		    public static void main(String[] args){
 		    	NumArray();
 		    	
